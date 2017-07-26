@@ -1,0 +1,15 @@
+{
+  "name": "skypebot",
+  "version": "1.0.0",
+  "description": "A Skype HR Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raghavendra Venkatesh",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "express": "^4.15.3"
+  }
+}
