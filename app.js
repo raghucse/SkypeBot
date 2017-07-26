@@ -17,7 +17,7 @@ bot.dialog('/',function (session) {
         session.send('Hi ' + session.message.user.name +
             ' thank you for your message: ' + session.message.text);
     }else{
-        session.send('Sorry I dont understand you...');
+        session.send('Sorry Bro I dont understand you...');
     }
 });
 
