@@ -4,8 +4,8 @@ var express = require('express');
 var app =  express();
 
 var botService = new skype.ChatConnector({
-    appId:'',
-    appPassword:''
+    appId:'baa58940-1c1f-428a-bc6d-24e965e7522d',
+    appPassword:'F81gGZiSjphZYF4o6rDsFoM'
 });
 
 var bot = new skype.UniversalBot(botService);
